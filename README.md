@@ -46,7 +46,6 @@
   </div>
 
 </details>
-```
 <details>
   <summary><b>🦇 𝕱𝖆𝖓𝖉𝖔𝖒𝖘</b></summary>
 
