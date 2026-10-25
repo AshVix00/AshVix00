@@ -48,7 +48,7 @@
 </details>
 ```
 <details>
-  <summary><b>🦇 𝔣𝔞𝔫𝔡𝔬𝔪𝔰</b></summary>
+  <summary><b>🦇 𝕱𝖆𝖓𝖉𝖔𝖒𝖘</b></summary>
 
   <br>
 
@@ -91,5 +91,23 @@
   **𝔯𝔲𝔰𝔰𝔦𝔞𝔫 / русский**
 
   Насчёт других фандомов лучше спросить! Я могу их знать, даже если не особо в них разбираюсь.
+
+</details>
+<details>
+  <summary><b>🕸️ 𝔰𝔬𝔠𝔦𝔞𝔩𝔰</b></summary>
+
+  <br>
+
+  <div align="center">
+
+  🎮 [𝔱𝔴𝔦𝔱𝔠𝔥](https://www.twitch.tv/AshVix_00)
+
+  ✈️ [𝔱𝔢𝔩𝔢𝔤𝔯𝔞𝔪](https://t.me/AshVix_00)
+
+  📌 [𝔭𝔦𝔫𝔱𝔢𝔯𝔢𝔰𝔱](https://pin.it/76zPM0G41)
+
+  💬 𝔡𝔦𝔰𝔠𝔬𝔯𝔡: ashvix_00
+
+  </div>
 
 </details>
