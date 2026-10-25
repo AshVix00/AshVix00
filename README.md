@@ -94,7 +94,7 @@
 
 </details>
 <details>
-  <summary><b>🕸️ 𝔰𝔬𝔠𝔦𝔞𝔩𝔰</b></summary>
+  <summary><b>🕸️ 𝕾𝕺𝕮𝕴𝕬𝕷𝕾</b></summary>
 
   <br>
 
